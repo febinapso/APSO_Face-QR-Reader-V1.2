@@ -1,1 +1,1 @@
-# APSO_Face-QR-Reader-V1.2
+# APSO_Face-QR-Reader-improvements
